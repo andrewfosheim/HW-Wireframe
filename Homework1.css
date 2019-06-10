@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    background-color: grey;
+    margin-right: 40px;
+    margin-left: 40px;
+    
+}
+header { 
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 20px;
+    }
+nav {
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+section {
+    background-color: white;
+   
+}
+article {
+    background-color: white;
+}
+h1 {
+    background-color: white;
+    height: 40px;
+
+}
+p  {
+    background-color: white;
+    height: 40px;
+}
+article {
+    background-color: grey;
+    padding: 20px;
+}
+section {
+    background-color: white;
+    width: 60%;
+    float: left;
+    margin-bottom: 20px;
+    padding: 40px;
+   
+}
+aside {
+    background-color: white;
+    width: 40%;
+    float: left;
+
+}
+footer {
+    clear: both;
+    background-color: white;
+    overflow: auto;
+    padding: 30px; 
+}
+
